@@ -1,0 +1,10 @@
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos da forca.csproj.AssemblyReference.cache
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos_da_forca.Form1.resources
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos_da_forca.Properties.Resources.resources
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos da forca.csproj.GenerateResource.cache
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos da forca.csproj.CoreCompileInputs.cache
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\bin\Debug\Jogos da forca.exe.config
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\bin\Debug\Jogos da forca.exe
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\bin\Debug\Jogos da forca.pdb
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos da forca.exe
+C:\Users\greyn\OneDrive\Área de Trabalho\IFSP\Projeto LP2\jogodaforca\Jogos da forca\obj\Debug\Jogos da forca.pdb
